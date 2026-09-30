@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Yashi Kaleem
 
-<!--
-**kaleemyashfa74-oss/kaleemyashfa74-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BS Information Technology Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am a 5th-semester BS IT student interested in software development, mobile applications, databases, and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Currently pursuing **BS Information Technology**
+- 📱 Learning **Flutter & Firebase**
+- 🗄️ Working with **PostgreSQL & SQL**
+- 🐧 Exploring **Linux & Open Source**
+- 🚀 Building projects to improve my programming skills
+- 💡 Interested in mobile app development and software engineering
+
+---
+
+## 🛠️ Languages & Tools
+
+**Programming**
+- Python
+- Dart
+- SQL
+
+**Development**
+- Flutter
+- Firebase
+- Git
+- GitHub
+
+**Database**
+- PostgreSQL
+
+**Environment**
+- Linux
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 TimeTalk
+A Flutter-based messaging application built with Firebase.
+
+**Technologies:** Flutter • Dart • Firebase • Firestore
+
+### 📝 DSA Todo List
+A Python project for managing a to-do list using data structures.
+
+**Technologies:** Python • Data Structures
+
+---
+
+## 📚 Currently Learning
+
+- Flutter & Firebase
+- Advanced SQL
+- Data Structures & Algorithms
+- Git & GitHub
+- Software Development
+
+---
+
+## 🤝 Connect With Me
+
+📧 Feel free to connect with me through GitHub.
+
+---
+
+⭐ Thanks for visiting my profile!
